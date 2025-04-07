@@ -1,7 +1,7 @@
 # defi_whodUnit_FSE
 ![Texte alternatif](gutenberg-fse-1024x415.webp)
 
-Intégration HTML/CSS ou SCSS + JS (pas de PHP) à réaliser dans un thème FSE
+Intégration HTML/CSS ou SCSS + JS (pas de PHP) à réaliser dans un thème FSE.
 
 Lien de la vidéo sur wetransfer: [https://we.tl/t-PzL0ZGeawX](https://we.tl/t-PzL0ZGeawX)
 
@@ -101,3 +101,8 @@ Les textes arrivent au scroll alternativement de gauche et de droites
 **Footer (optionnel):**
 
 Liberté totale si envie de le réaliser
+
+
+**Remerciements: Je remercie Eddy pour avoir proposé que je lui fasse relevé ce défi. C'est avec cet esprit qu'une communauté avance et c'est top 👍
+
+
