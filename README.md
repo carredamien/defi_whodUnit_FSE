@@ -1,6 +1,7 @@
 # defi_whodUnit_FSE
 Intégration HTML/CSS ou SCSS + JS (pas de PHP) à réaliser dans un thème FSE
 
+Lien de la vidéo sur wetransfer: [https://we.tl/t-PzL0ZGeawX](https://we.tl/t-PzL0ZGeawX)
 
 **Objectifs :** Réaliser la frontPage d’un thème FSE (approche mobil-first), en respectant les bonnes pratiques au maximum.
 
@@ -47,12 +48,14 @@ J’espère que tu relèvera ce défi et que tu y prendra du plaisir 😉.
 
 **Logo :**
 
+Pour le logo n'importe quelle image dans l'esprit de la danse PNG ou WebP fera l'affaire
 Desktop width: 9rem
 tablet : 7rem 
 mobil : 4.5rem
 
+**Images : **
+Comme pour le logo, des images en lien avec la danse feront l'affaire pour ce défi.
 
-  
 **Body:** Linear-gradient précisé dans la charte ci-dessus. Pas de complication a le mettre en place en CSS mais il serait intéressant qu’il soit géré par le theme.json.
 
 Un loader au couleur du Gabon au chargement de la page. 
