@@ -90,19 +90,16 @@ Image de fond doit se composer une fois le loader parti. L’image doit être re
 
   
 
-La séparation avec la section suivante est libre.
-
+La séparation avec la section suivante doit comporter a minima une image avec un paralax et des card arrivant au scroll
   
-
-L’image suivante doit avoir un paralax
-
-Les textes arrivent au scroll alternativement de gauche et de droites
 
 **Footer (optionnel):**
 
 Liberté totale si envie de le réaliser
 
 
-# Remerciements: Je remercie Eddy pour avoir proposé que je lui fasse relevé ce défi. C'est avec cet esprit qu'une communauté avance et c'est top 👍
+## Remerciements: 
+Je remercie Eddy (Whodunit - Agence & Formations WordPress) pour avoir proposé de relever un défi. 
+C'est avec cet esprit qu'une communauté avance et c'est top 👍
 
 
