@@ -1,4 +1,6 @@
 # defi_whodUnit_FSE
+![Texte alternatif](gutenberg-fse-1024x415.webp)
+
 Intégration HTML/CSS ou SCSS + JS (pas de PHP) à réaliser dans un thème FSE
 
 Lien de la vidéo sur wetransfer: [https://we.tl/t-PzL0ZGeawX](https://we.tl/t-PzL0ZGeawX)
