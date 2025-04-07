@@ -103,6 +103,6 @@ Les textes arrivent au scroll alternativement de gauche et de droites
 Liberté totale si envie de le réaliser
 
 
-**Remerciements: Je remercie Eddy pour avoir proposé que je lui fasse relevé ce défi. C'est avec cet esprit qu'une communauté avance et c'est top 👍
+#Remerciements: Je remercie Eddy pour avoir proposé que je lui fasse relevé ce défi. C'est avec cet esprit qu'une communauté avance et c'est top 👍
 
 
