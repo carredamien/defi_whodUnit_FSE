@@ -14,7 +14,7 @@ Il serait intéressant de voir les points compliqués à réaliser en natif et c
 
 Sans être dans l'excès, il est intéressant de voir la propreté du code et avoir une idée du temps passé.
 
-Globalement, rien de particulier, juste des choses simples que l'ont réalise quotidiennement mais qui selon moi, ne sont pas très simple avec le FSE, même s'il n'y a pas débat, c'est un très bon outil et c'est l'avenir de WordPress
+Globalement, rien de particulier, juste des choses simples que l'ont réalise quotidiennement mais qui selon moi, ne sont pas très simple avec le FSE, (il n'y a pas débat, c'est un très bon outil et c'est l'avenir de WordPress).
 
 
 J’espère que tu relèvera ce défi et que tu y prendra du plaisir 😉.
